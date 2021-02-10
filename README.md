@@ -3,9 +3,15 @@
 エラーゼミの課題用Railsアプリです. 
 Zip形式でダウンロード & 展開しましょう！
 
-Ruby2.7.2
+最初にGemfile中のrubyとrailsのバージョンを自分用に合わせて, 
 
-Rails6
+```
+$ bundle install
+```
+を忘れずに！
 
-Sqlite3
-"# error_sample" 
+## Ruby2.7.2
+
+## Rails6.1.2
+
+## Sqlite3

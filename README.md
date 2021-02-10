@@ -10,8 +10,8 @@ $ bundle install
 ```
 を忘れずに！
 
-## Ruby2.7.2
+Ruby2.7.2
 
-## Rails6.1.2
+Rails6.1.2
 
-## Sqlite3
+Sqlite3
